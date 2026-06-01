@@ -22,7 +22,7 @@ export default function Contact() {
               sddhntawasthi@gmail.com
             </a>
             <a
-              href="https://linkedin.com/in/siddhant-awasthi"
+              href="https://www.linkedin.com/in/siddhant-awasthi-153779316/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-white/5 border border-white/10 text-gray-300 hover:text-white hover:border-white/20 text-sm font-semibold transition-all duration-200"
