@@ -3,12 +3,12 @@ import { Trophy, Code, Zap } from 'lucide-react';
 const achievements = [
   {
     icon: Code,
-    title: 'LeetCode — Top 6% Globally',
+    title: 'LeetCode — Top 5% Globally',
     period: 'Jan 2024 – Present',
-    badge: 'Rating: 1850+',
+    badge: 'Rating: 1900+',
     badgeColor: 'bg-amber-500/10 text-amber-400 border-amber-500/20',
     points: [
-      'Solved 350+ problems across Dynamic Programming, Graphs, and HashMaps.',
+      'Solved 440+ problems across Dynamic Programming, Graphs, and HashMaps.',
       'Consistently ranked in the top percentile in weekly global coding contests.',
     ],
   },
