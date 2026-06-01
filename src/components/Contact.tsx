@@ -35,7 +35,7 @@ export default function Contact() {
 
           <div className="flex items-center justify-center gap-6">
             <a
-              href="https://linkedin.com/in/siddhant-awasthi"
+              href="https://www.linkedin.com/in/siddhant-awasthi-153779316/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-sky-400 transition-colors"
