@@ -44,7 +44,7 @@ export default function Contact() {
               <Linkedin size={20} />
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/awasthi-1425"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-sky-400 transition-colors"
